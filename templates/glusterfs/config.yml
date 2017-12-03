@@ -1,0 +1,5 @@
+name: Rancher GlusterFS Storage Driver
+description: |
+   Rancher GlusterFS Storage Driver
+version: 0.0.1
+category: Storage
